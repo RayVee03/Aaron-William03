@@ -5,7 +5,7 @@ Master's degree student in Computer science and Information technology
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in Taiwan
-* ✉️  You can contact me at [aaronye086@gmail.com](mailto:aaronye086@gmail.com)
+* ✉️  You can contact me at [rayvee086@gmail.com](mailto:rayvee086@gmail.com)
 * 🧠  I major in Intelligent Manufacturing and Deep Learning
 
 ### Skills
