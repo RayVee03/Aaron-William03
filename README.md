@@ -22,7 +22,7 @@ Master's degree student in Computer science and Information technology
 
 <p align="left">
 <a href="https://www.github.com/AaronYeh03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/chun-wei-yeh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/chun-wei-yeh/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F1883%2Flinkedin&psig=AOvVaw02N8iJcumYzPYU2QUNPtw7&ust=1685515600602000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDProe5nP8CFQAAAAAdAAAAABAE" width="32" height="32" /></a>
 </p>
 
 ### Badges
