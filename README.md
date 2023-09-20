@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ray Vee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jim
 =====================================================================================================================================
 
 Master's degree student in Computer science and Information technology
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in Taiwan
-* ✉️  You can contact me at [rayvee086@gmail.com](mailto:rayvee086@gmail.com)
+* ✉️  You can contact me at [mcjim1730317@gmail.com](mailto:mcjim1730317@gmail.com)
 * 🧠  I major in Intelligent Manufacturing and Deep Learning
 
 ### Skills
