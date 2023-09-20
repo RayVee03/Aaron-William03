@@ -15,7 +15,8 @@ Master's degree student in Computer science and Information technology
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Ddocker%2BLogo&psig=AOvVaw14Oi0zyKvOdlXPGp03wQMC&ust=1695287563160000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj2irzsuIEDFQAAAAAdAAAAABAE" width="32" height="32" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="![image](https://github.com/mcJIM173/Jim173/assets/81473745/09a4142c-9a04-473b-974a-1030a39cb0b5)
+" width="32" height="32" /></a>
 </p>
 
 
